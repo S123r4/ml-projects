@@ -1,5 +1,6 @@
-# ml-projects
-smart language filter for hate speech and offensive language using ml
+# ML-project
+smart language filter for hate speech and offensive language using ML.
+
 In today’s digital world, people often express their opinions online, but sometimes this leads
 to the spread of hateful or offensive messages. This project aims to create a tool that can
 automatically check written messages and identify whether they contain hate speech, are
